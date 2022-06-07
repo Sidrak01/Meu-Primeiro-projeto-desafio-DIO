@@ -1,0 +1,6 @@
+- clonar repositório- git clone (mais url)- não precisa dos parenteses.
+- Adicionar arquivos no github--   git add .
+
+
+-para conseguir adicionar precisa digitar o seguinte comando- git commit -m "comentário"
+- E para finalizar - git push origin maingit 
